@@ -1,0 +1,7 @@
+tensorflow==2.3
+opencv-python
+yacs
+pandas
+yolov4==2.0.3
+matplotlib
+customTkinter

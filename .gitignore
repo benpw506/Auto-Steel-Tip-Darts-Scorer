@@ -1,0 +1,8 @@
+__pycache__
+.idea/
+Training/dataset/images/
+Training/dataset/cropped_images/
+Training/dataset/annotations/
+Training/dataset/__pycache__
+Training/test_images/
+
